@@ -1,0 +1,1 @@
+<?php echo 'Subscribe form handler'; ?>

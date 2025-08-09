@@ -1,0 +1,1 @@
+<?php echo 'QR promo page'; ?>

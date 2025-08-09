@@ -1,0 +1,1 @@
+<?php echo 'QNN.buzz Landing Page'; ?>
